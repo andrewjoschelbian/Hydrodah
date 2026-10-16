@@ -1,13 +1,12 @@
-############################################################
   HydroDah v3 — Dashboard THC-Hydra (full CLI)
 	  Modify by @andrewjoschelbian
-############################################################
+	  
   Script : hydrodah.py
   Port   : 8091
   Buka   : http://localhost:8091
-============================================================
+  
 DISCLAIMER & ETIKA
-============================================================
+
 Tool ini untuk PEMBELAJARAN dan pengujian AUTHORIZED saja:
 lab sendiri (DVWA), challenge CTF, program bug bounty resmi,
 atau sistem dengan IZIN TERTULIS.
@@ -20,7 +19,6 @@ Persyaratan umum: python3 (sudo apt install python3)
 Jalankan:   python3 hydrodah.py
 Buka:       http://localhost:8091
 Stop:       Ctrl+C / pkill -f hydrodah.py
-============================================================
 
 UNTUK APA
   Dashboard web untuk THC-Hydra — brute force 50+ protokol
