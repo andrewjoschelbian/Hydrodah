@@ -1,6 +1,7 @@
   HydroDah v3 — Dashboard THC-Hydra (full CLI)
-	  Modify by @andrewjoschelbian
-	  
+  Modify by @andrewjoschelbian
+
+  Language: Indonesian
   Script : hydrodah.py
   Port   : 8091
   Buka   : http://localhost:8091
